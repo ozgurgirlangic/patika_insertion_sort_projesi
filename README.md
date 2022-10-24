@@ -23,7 +23,7 @@ b) n+(n-1)+(n-2)+(n-3)+(n-4)+1 = n*(n-1)/2
 
 c) Time Complexity
   -Avarage Case = Aranılan değerin ortada olması [22,27,16,2,18,6] "Örnek a da aranılan değer ortadadır örnek olarak gösterilebilir"
-  -Worst Case = Aranılan değerin en sonra olması
+  -Worst Case = Aranılan değerin en sonda olması
   -Best Case= Aranılan değerin en başta olması 
   
  d) Sıralama yapıldıktan sonra 18 sayısı dizinin başında ya da sonunda bulunmaz. Bu yüzden Avarage Case kapsamına girer.
