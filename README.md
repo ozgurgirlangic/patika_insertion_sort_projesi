@@ -1,4 +1,4 @@
-[Patika.dev] www.patika.dev
+
 
 
 #Proje Insertion Sort#
